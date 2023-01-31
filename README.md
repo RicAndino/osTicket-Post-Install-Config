@@ -49,7 +49,7 @@ Create two users, Gina Gahlic and Carmela Cookie, that will serve as end users r
 <img src="https://i.imgur.com/JTNKvgs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure three Service Level Agreements (SLA) with three different categories and response times. The first one, SEV-A, has to be resolved within 1-hour in  24-hr period. The second one, SEV-B, must be resolved within 4-hours in a 24-hour period, and the last one, SEV-C, must be resolved within 8 business hours.
+Configure three Service Level Agreements (SLA) with three different categories and response times. The first one, SEV-A, has to be resolved within 1-hour in  24-hr period. The second one, SEV-B, must be resolved within 4-hours in a 24-hour period, and the last one, SEV-C, must be resolved within 8 business hours. The SLA's for your organization will be different, but the key point is that these SLA's are agreements that determine the timely manner that an issue must be resolved so that your organization is meeting its commitments.
 </p>
 <br />
 
